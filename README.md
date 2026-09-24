@@ -3,7 +3,7 @@
 PyTorch implementation of **Newton Trust-Region PnP** using the Douglas-Rachford Envelope (DRE), a true second-order optimization method for Plug-and-Play image restoration.
 
 > **Paper:** _Trust Region Plug-and-Play with Provable Convergence for Image Restoration_<br>
-> IEEE Access, 2026
+> IEEE Access, 2026<br>
 > [DOI: 10.1109/ACCESS.2026.3737001](https://doi.org/10.1109/ACCESS.2026.3737001)<br>
 
 ## Method
@@ -143,11 +143,16 @@ Noise levels: ν ∈ {0.01, 0.03, 0.05} (corresponding to σ ∈ {2.55, 7.65, 12
 If you found our project helpful, please cite our paper.
 
 ```bibtex
-@article{TODO,
+@article{sabdana2026trust,
   title={Trust Region Plug-and-Play with Provable Convergence for Image Restoration},
-  author={TODO},
+  author={Sabdana, Christian B. and Sunaryono, Dwi and Amaliah, Bilqis and Sabilla, Shoffi Izza and Suciningtyas, Laras},
   journal={IEEE Access},
-  year={2026}
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  publisher={IEEE},
+  doi={10.1109/ACCESS.2026.3737001}
 }
 ```
 
