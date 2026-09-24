@@ -1,0 +1,8 @@
+config.ini
+models/*
+result/
+experiments/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
