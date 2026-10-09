@@ -148,6 +148,9 @@ If you found our project helpful, please cite our paper.
   author={Sabdana, Christian B and Sunaryono, Dwi and Amaliah, Bilqis and Sabilla, Shoffi Izza and Suciningtyas, Laras},
   journal={IEEE Access},
   year={2026},
+  volume={14},
+  number={},
+  pages={152579-152596},
   publisher={IEEE},
   doi={10.1109/ACCESS.2026.3737001}
 }
