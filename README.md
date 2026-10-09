@@ -145,12 +145,9 @@ If you found our project helpful, please cite our paper.
 ```bibtex
 @article{sabdana2026trust,
   title={Trust Region Plug-and-Play with Provable Convergence for Image Restoration},
-  author={Sabdana, Christian B. and Sunaryono, Dwi and Amaliah, Bilqis and Sabilla, Shoffi Izza and Suciningtyas, Laras},
+  author={Sabdana, Christian B and Sunaryono, Dwi and Amaliah, Bilqis and Sabilla, Shoffi Izza and Suciningtyas, Laras},
   journal={IEEE Access},
   year={2026},
-  volume={},
-  number={},
-  pages={1-1},
   publisher={IEEE},
   doi={10.1109/ACCESS.2026.3737001}
 }
