@@ -138,6 +138,16 @@ Supported inverse problems:
 
 Noise levels: ν ∈ {0.01, 0.03, 0.05} (corresponding to σ ∈ {2.55, 7.65, 12.75}/255).
 
+## Contributors
+
+The people listed below contributed to the development, evaluation, and research work behind Newton Trust-Region Plug-and-Play:
+
+- **Christian Budhi Sabdana** — Department of Informatics, Institut Teknologi Sepuluh Nopember, Surabaya 60111, Indonesia
+- **Dr. Dwi Sunaryono** — Department of Informatics, Institut Teknologi Sepuluh Nopember, Surabaya 60111, Indonesia (corresponding author)
+- **Dr. Bilqis Amaliah** — Department of Informatics, Institut Teknologi Sepuluh Nopember, Surabaya 60111, Indonesia
+- **Dr. Shoffi Izza Sabilla** — Department of Medical Technology, Institut Teknologi Sepuluh Nopember, Surabaya 60111, Indonesia
+- **Laras Suciningtyas** — Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember, Surabaya 60111, Indonesia
+
 ## Citation
 
 If you found our project helpful, please cite our paper.
